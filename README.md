@@ -52,7 +52,7 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 ## Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,django, heroku" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,django,heroku" />
 </p>
 
 ## Tools
@@ -62,11 +62,18 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 </p>
 
 ---
+## 🧪 Testing & Quality Assurance
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" />
+</p>
 
 # 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/mileiny1
 - GitHub: https://github.com/mileiny1
 - Email me: mileinygreys@gmail.com
- -Website: https://mileiny-portfolio-valdez.vercel.app/
+- Website: https://mileiny-portfolio-valdez.vercel.app/
+  
+ 
 
