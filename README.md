@@ -40,7 +40,7 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
 </p>
 
 ## Frontend
