@@ -24,7 +24,7 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 ## ☁️ Cloud Skills
 - Cloud computing fundamentals (IaaS, PaaS, SaaS)  
-- AWS core services (EC2, S3, IAM, Lambda basics)  
+- AWS core services (EC2, S3, RDS, VPC, DOCKER)  
 - Virtual machines and virtualization concepts  
 - Basic cloud deployment and architecture understanding  
 
@@ -32,7 +32,7 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 ## 🛠️ IT Support Skills (CompTIA A+)
 - PC hardware installation and troubleshooting  
-- Operating systems: Windows, Linux, macOS basics  
+- Operating systems: Windows, macOS basics  
 - Networking fundamentals (IP, DNS, DHCP, Wi-Fi troubleshooting)   
 - Help desk support and technical troubleshooting  
 # 🛠 Skills
