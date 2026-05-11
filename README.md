@@ -3,6 +3,9 @@
 <!--
 **mileiny1/mileiny1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
+ 
 # Hi 👋, I'm Mileiny Nolasco
 
 💻 Software Engineer  
@@ -52,5 +55,3 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 - LinkedIn: https://www.linkedin.com/in/mileiny1
 - GitHub: https://github.com/mileiny1
--->
- Thanks
