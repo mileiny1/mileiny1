@@ -7,11 +7,10 @@
 -->
  
 # Hi 👋, I'm Mileiny Nolasco
-
-💻 Software Engineer  
- 
+💻 Software Engineer | IT & Cloud Enthusiast  
 📚 AAS in Computer Information Systems  
-🚀 Building Full-Stack Projects and Educational Games  
+☁️ AWS Certified Cloud Practitioner  
+🛠️ CompTIA A+ Certified 
 
 ---
 
@@ -23,30 +22,43 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 ---
 
+## ☁️ Cloud Skills
+- Cloud computing fundamentals (IaaS, PaaS, SaaS)  
+- AWS core services (EC2, S3, IAM, Lambda basics)  
+- Virtual machines and virtualization concepts  
+- Basic cloud deployment and architecture understanding  
+
+---
+
+## 🛠️ IT Support Skills (CompTIA A+)
+- PC hardware installation and troubleshooting  
+- Operating systems: Windows, Linux, macOS basics  
+- Networking fundamentals (IP, DNS, DHCP, Wi-Fi troubleshooting)   
+- Help desk support and technical troubleshooting  
 # 🛠 Skills
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,,javascript,typescript" />
 </p>
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap," />
 </p>
 
 ## Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,django, heroku" />
 </p>
 
 ## Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode," />
 </p>
 
 ---
@@ -55,3 +67,6 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 - LinkedIn: https://www.linkedin.com/in/mileiny1
 - GitHub: https://github.com/mileiny1
+- Email me: mileinygreys@gmail.com
+ -Website: https://mileiny-portfolio-valdez.vercel.app/
+
