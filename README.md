@@ -70,10 +70,10 @@ Throughout her journey, Mileiny has relied on creativity and problem-solving ski
 
 # 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/mileiny1
-- GitHub: https://github.com/mileiny1
-- Email me: mileinygreys@gmail.com
-- Website: https://mileiny-portfolio-valdez.vercel.app/
+- 💼LinkedIn: https://www.linkedin.com/in/mileiny1
+- 📧Email me: mileinygreys@gmail.com
+- 📧Email me: mileinygreys_402@hotmail.com
+- 👩‍💻Website: https://mileiny-portfolio-valdez.vercel.app/
   
  
 
