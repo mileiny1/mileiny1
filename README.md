@@ -7,7 +7,7 @@
 -->
  
 # Hi 👋, I'm Mileiny Nolasco
-💻 Software Engineer | IT & Cloud Enthusiast  
+💻 Full Stack Developer| IT & Cloud Enthusiast  
 📚 AAS in Computer Information Systems  
 ☁️ AWS Certified Cloud Practitioner  
 🛠️ CompTIA A+ Certified 
