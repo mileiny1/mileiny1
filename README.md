@@ -16,9 +16,7 @@
 
 ## 👩‍💻 About Me
 
-Mileiny Nolasco is an aspiring software engineer, creative thinker, and jet ski enthusiast. With three years of college-level study and a strong foundation of self-taught knowledge in computer science, she transitioned from her role as a Nursing Assistant to pursue a career in technology.
-
-Throughout her journey, Mileiny has relied on creativity and problem-solving skills to build solutions that are innovative, user-focused, and uniquely tailored to individual needs. She is passionate about software development, continuous learning, and creating impactful digital experiences.
+Mileiny Nolasco is an aspiring Software Engineer with a strong passion for technology, problem solving, and continuous learning. After three years of college level study and extensive self taught experience in Computer Information Systems, I decided to follow my passion for technology and build a career in the tech industry after working as a Nursing Assistant. I enjoy building web applications and creating solutions that improve user experiences. My technical skills include JavaScript, Python, React, HTML, CSS, Node.js, Express.js, MongoDB, PostgreSQL, and cloud technologies. Through hands on projects and real-world experience, I have developed a strong foundation in software development, troubleshooting, and system administration. I also use Postman for API testing and Cypress for front-end testing, allowing me to thoroughly test and validate the applications I develop. When I'm not coding, I enjoy spending time with family, learning new technologies, and jet skiing. I am always looking for opportunities to grow as a developer, expand my technical expertise, and contribute to meaningful projects that make a positive impact.
 
 ---
 
