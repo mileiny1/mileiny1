@@ -8,8 +8,11 @@
  
 # Hi 👋, I'm Mileiny Nolasco
 💻 Full Stack Developer | IT & Cloud Enthusiast. 
+
 📚 AAS in Computer Information Systems.  
+
 ☁️ AWS Certified Cloud Practitioner.  
+
 🛠️ CompTIA A+ Certified. 
 
 ---
