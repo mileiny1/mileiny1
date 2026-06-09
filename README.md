@@ -7,10 +7,10 @@
 -->
  
 # Hi 👋, I'm Mileiny Nolasco
-💻 Full Stack Developer| IT & Cloud Enthusiast  
-📚 AAS in Computer Information Systems  
-☁️ AWS Certified Cloud Practitioner  
-🛠️ CompTIA A+ Certified 
+💻 Full Stack Developer | IT & Cloud Enthusiast. 
+📚 AAS in Computer Information Systems.  
+☁️ AWS Certified Cloud Practitioner.  
+🛠️ CompTIA A+ Certified. 
 
 ---
 
@@ -21,18 +21,18 @@ Mileiny Nolasco is an aspiring Software Engineer with a strong passion for techn
 ---
 
 ## ☁️ Cloud Skills
-- Cloud computing fundamentals (IaaS, PaaS, SaaS)  
-- AWS core services (EC2, S3, RDS, VPC, DOCKER)  
-- Virtual machines and virtualization concepts  
-- Basic cloud deployment and architecture understanding  
+- Cloud computing fundamentals (IaaS, PaaS, SaaS).  
+- AWS core services (EC2, S3, RDS, VPC, DOCKER).  
+- Virtual machines and virtualization concepts.  
+- Basic cloud deployment and architecture understanding. 
 
 ---
 
 ## 🛠️ IT Support Skills (CompTIA A+)
-- PC hardware installation and troubleshooting  
-- Operating systems: Windows, macOS basics  
-- Networking fundamentals (IP, DNS, DHCP, Wi-Fi troubleshooting)   
-- Help desk support and technical troubleshooting  
+- PC hardware installation and troubleshooting.  
+- Operating systems: Windows, macOS basics.  
+- Networking fundamentals (IP, DNS, DHCP, Wi-Fi troubleshooting).   
+- Help desk support and technical troubleshooting.  
 # 🛠 Skills
 
 ## Languages
