@@ -20,15 +20,15 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring Software Engineer with a strong passion for technology, problem-solving, and continuous learning. After three years of college-level study in Computer Information Systems, I made a deliberate career transition from Nursing Assistant to full-stack developer — driven by a genuine love for building things that matter.
+I am an aspiring Software Engineer with a strong passion for technology, problem-solving, and continuous learning. After three years of college-level study and extensive self-directed learning in Computer Information Systems, I transitioned from a career as a Nursing Assistant to pursue my passion for technology and software development.
+I enjoy building web applications and creating solutions that improve user experiences. My technical expertise includes JavaScript, Python, React, HTML, CSS, Node.js, Express.js, Django, MongoDB, PostgreSQL, and cloud technologies. Through hands-on projects and real-world experience, I have developed a solid foundation in software development, troubleshooting, system administration, and IT support.
+I also use Postman for API testing and Cypress for front-end testing, enabling me to thoroughly validate and maintain application quality. When I'm not coding, I enjoy spending time with family, learning new technologies, and jet skiing.
+I am always looking for opportunities to grow as a developer, expand my technical expertise, and contribute to meaningful projects that create a positive impact.
 
-I enjoy crafting web applications that improve user experiences, and I bring a unique perspective to technical work shaped by both healthcare and technology. When I'm not coding, you'll find me spending time with family, exploring new technologies, or jet skiing.
 
 - 🎓 **AAS in Computer Information Systems**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🛠️ **CompTIA A+ Certified**
-- 🌱 Currently deepening my expertise in cloud architecture and backend systems
-- 💬 Open to collaboration, mentorship, and meaningful projects
 
 ---
 
@@ -83,15 +83,6 @@ I enjoy crafting web applications that improve user experiences, and I bring a u
 - Windows and macOS system administration
 - Networking fundamentals: IP, DNS, DHCP, Wi-Fi
 - Help desk support and technical documentation
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mileiny1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileiny1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
