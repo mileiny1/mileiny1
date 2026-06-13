@@ -20,9 +20,9 @@
 
 ## 👩‍💻 About Me
 
-I am an aspiring Software Engineer with a strong passion for technology, problem-solving, and continuous learning. After three years of college-level study and extensive self-directed learning in Computer Information Systems, I transitioned from a career as a Nursing Assistant to pursue my passion for technology and software development.
-I enjoy building web applications and creating solutions that improve user experiences. My technical expertise includes JavaScript, Python, React, HTML, CSS, Node.js, Express.js, Django, MongoDB, PostgreSQL, and cloud technologies. Through hands-on projects and real-world experience, I have developed a solid foundation in software development, troubleshooting, system administration, and IT support.
-I also use Postman for API testing and Cypress for front-end testing, enabling me to thoroughly validate and maintain application quality. When I'm not coding, I enjoy spending time with family, learning new technologies, and jet skiing.
+I am an aspiring Software Engineer with a strong passion for technology, problem solving, and continuous learning. After three years of college level study and extensive self directed learning in Computer Information Systems, I transitioned from a career as a Nursing Assistant to pursue my passion for technology and software development.
+I enjoy building web applications and creating solutions that improve user experiences. My technical expertise includes JavaScript, Python, React, HTML, CSS, Node.js, Express.js, Django, MongoDB, PostgreSQL, and cloud technologies. Through hands on projects and real world experience, I have developed a solid foundation in software development, troubleshooting, system administration, and IT support.
+I also use Postman for API testing and Cypress for front end testing, enabling me to thoroughly validate and maintain application quality. When I'm not coding, I enjoy spending time with family, learning new technologies, and jet skiing.
 I am always looking for opportunities to grow as a developer, expand my technical expertise, and contribute to meaningful projects that create a positive impact.
 
 
